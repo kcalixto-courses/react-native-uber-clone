@@ -58,11 +58,11 @@ const HomeScreen = () => {
                     />
                 </View>
             </View>
-            <View style={{ flex: 1, backgroundColor: "gray" }} >
-                <View style={{ flex: 1, backgroundColor: "red" }}>
+            <View style={{ flex: 1 }} >
+                <View style={{ flex: 1 }}>
                     <NavOptions />
                 </View>
-                <View style={{ flex: 1, backgroundColor: "blue" }}>
+                <View style={{ flex: 1 }}>
                     <NavFavorites />
                 </View>
             </View>
